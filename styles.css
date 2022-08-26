@@ -104,10 +104,6 @@ main{
     display: flex;
 }
 
-img{
-    height: 450px;
-}
-
 .text{
     width: 47%;
     line-height: 2rem;
