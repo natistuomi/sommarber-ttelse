@@ -75,3 +75,15 @@ input, button, textarea, select {
     --color-white: #e5e5e5;
     --color-black: #282828;
 }
+
+html, body, header, main, footer, .images{
+    width: 100%;
+}
+
+header{
+    padding: 1 rem;
+}
+
+h1{
+    font-size: 4rem;
+}
