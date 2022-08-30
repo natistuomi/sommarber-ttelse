@@ -102,6 +102,7 @@ main{
 
 .images{
     display: flex;
+    justify-content: center;
 }
 
 .text{
